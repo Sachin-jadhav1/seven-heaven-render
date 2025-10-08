@@ -1,0 +1,5 @@
+module.exports.createClubs = require('./createClan.controller')
+module.exports.getAllClan = require('./getAllClan.controller')
+module.exports.getClanById = require('./getClanById.controller')
+module.exports.updateClan = require('./updateClan.controller')
+module.exports.addUserToClan = require('./addUserToClan.controller')

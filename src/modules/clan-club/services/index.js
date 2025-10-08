@@ -1,0 +1,5 @@
+module.exports.createClan = require('./createClan.service')
+module.exports.getAllClan = require('./getAllClan.service')
+module.exports.getClanById = require('./getClanById.service')
+module.exports.updateClan = require('./updateClan.service')
+module.exports.addUserToClan = require('./addUserToClan.service')       

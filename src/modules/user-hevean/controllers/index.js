@@ -1,0 +1,5 @@
+module.exports.registerUsers = require('./registerUser.controller')
+module.exports.verifyCode = require('./verifyCode.controller')
+module.exports.createUserId = require('./createUserid.controller')
+module.exports.sendLoginOtp = require('./sendLoginOtp.controller')
+module.exports.verifyLoginOtp = require('./loginVerifyOtp.controller')

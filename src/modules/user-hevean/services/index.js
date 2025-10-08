@@ -1,0 +1,5 @@
+module.exports.registerUser = require('./registerUser.service')
+module.exports.verifyCode = require('./verifyCode.service')
+module.exports.createUserId = require('./createUserid.service')
+module.exports.sendLoginOtp = require('./sendLoginOtp.service')
+module.exports.verifyLoginOtp = require('./verifyLoginOtp.service')
